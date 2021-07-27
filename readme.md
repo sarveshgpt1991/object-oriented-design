@@ -94,6 +94,23 @@ Question | Solutions | Videos
 | Movie Ticket Booking | [Solution-1](https://github.com/anomaly2104/ticket-booking-low-level-system-design) | [Video-1](https://www.youtube.com/playlist?list=PL564gOx0bCLpAL7yMJqOuK3_hBuLkyRhn)|
 | Uber Eats/ Door dash/ Swiggy| [Solution-1](https://github.com/mayankbansal93/lld-food-delivery-zomato-swiggy) | [Video-1](https://www.youtube.com/watch?v=LePt0PUKIjE&list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek&index=5)
 
+Check PDF : [SYSTEM DESIGN INTERVIEW](https://github.com/sarveshgpt1991/object-oriented-design/blob/master/pdf/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu.pdf)<br />
+1: SCALE FROM ZERO TO MILLIONS OF USERS <br />
+2: BACK-OF-THE-ENVELOPE ESTIMATION <br />
+3: A FRAMEWORK FOR SYSTEM DESIGN INTERVIEWS <br />
+4: DESIGN A RATE LIMITER <br />
+5: DESIGN CONSISTENT HASHING <br />
+6: DESIGN A KEY-VALUE STORE <br />
+7: DESIGN A UNIQUE ID GENERATOR IN DISTRIBUTED SYSTEMS <br />
+8: DESIGN A URL SHORTENER <br />
+9: DESIGN A WEB CRAWLER <br />
+10: DESIGN A NOTIFICATION SYSTEM <br />
+11: DESIGN A NEWS FEED SYSTEM <br />
+12: DESIGN A CHAT SYSTEM <br />
+13: DESIGN A SEARCH AUTOCOMPLETE SYSTEM <br />
+14: DESIGN YOUTUBE <br />
+15: DESIGN GOOGLE DRIVE <br />
+
 <hr />
 <h3 align="center">** Sources **</h3>
 <hr />
